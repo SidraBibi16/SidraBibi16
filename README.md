@@ -6,18 +6,9 @@
 - 💬 Ask me about **MERN Stack Development**
 
 ### 🏅 Certifications & Achievements
-<table>
-  <tr>
-    <td>
-      <img src="https://images.credly.com/size/220x220/images/6df68dfd-d349-43c3-b543-855909ffcd31/Enterprise_Design_Thinking_-_Practitioner.png" width="100" alt="IBM Enterprise Design Thinking Practitioner">
-    </td>
-    <td>
-      <strong>IBM Enterprise Design Thinking Practitioner</strong><br>
-      Issued by IBM via Coursera<br>
-      <a href="https://www.coursera.org/verify/7MHYQCSHI4JK" target="_blank">🔗 Verify Certificate (ID: 7MHYQCSHI4JK)</a>
-    </td>
-  </tr>
-</table>
+![IBM Badge](https://img.shields.io/badge/IBM_Design_Thinking-Practitioner-052D65?style=for-the-badge&logo=ibm&logoColor=white)
+- **IBM Enterprise Design Thinking Practitioner** (Issued via Coursera)
+- [🔗 Verify Certificate (ID: 7MHYQCSHI4JK)](https://www.coursera.org/verify/7MHYQCSHI4JK)
 
 ### 🛠️ Tech Stack & Tools
 
