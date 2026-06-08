@@ -6,5 +6,4 @@
 - 💬 Ask me about **MERN Stack Development**
 
 ### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidra&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SidraBibi16&show_icons=true&theme=radical)
